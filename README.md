@@ -58,3 +58,9 @@ All queries are included in the project PDF.
 | `PRSQL-02 - Medical Data History - SQL Queries and Result.pdf` | Full list of queries with outputs |
 | `/sql/queries.sql` (optional) | Full SQL script for all queries |
 | `/images/` (optional) | Screenshots of SQL outputs |
+👨‍💼 Author / Contact
+
+Akshath Shetty
+
+📌 LinkedIn:
+https://www.linkedin.com/in/akshath-shetty-updatedprofile/
